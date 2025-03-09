@@ -17,7 +17,7 @@ export default function Hero() {
                 </div>
                 <div className="flex flex-col w-full space-y-4 px-16 tablet:flex-row tablet:space-y-0 tablet:space-x-4 tablet:px-0">
                     <Button variant="default" size="lg">Sé parte</Button>
-                    <Button variant="secondary" size="lg">Conóce más</Button>
+                    <Button variant="secondary" size="lg">Conoce más</Button>
                 </div>
             </div>
             <div className="relative w-full h-[16rem] tablet:h-[30rem] desktop:h-[32rem]">
